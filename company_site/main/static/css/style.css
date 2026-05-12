@@ -1,0 +1,41 @@
+
+body {
+    font-family: Arial;
+    margin: 0;
+    background: #f5f5f5;
+}
+
+header {
+    background: #222;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin-right: 50px;
+    text-decoration: none;
+}
+
+ .hero {
+     text-align: center;
+     padding: 100px 20px;
+}
+
+ .btn {
+     background: blue;
+     color: white;
+     padding: 15px 25px;
+     border-radius: 5px;
+     text-decoration: none;
+ }
+
+.about {
+     text-align: center;
+     padding: 100px 20px;
+}
+.contacts{
+    text-align: center;
+     padding: 100px 20px;
+}
